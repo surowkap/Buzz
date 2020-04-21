@@ -4,6 +4,7 @@
 import time 
   
 # printing the start time  
+time.sleep(5) 
 print("Hello world from Python!") 
 print(time.ctime()) 
   
