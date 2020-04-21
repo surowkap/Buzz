@@ -5,7 +5,8 @@ import time
   
 # printing the start time  
 time.sleep(5) 
-print("Hello world from Python!") 
+while True:
+	print("Hello world from Python!") 
 print(time.ctime()) 
   
 # using sleep() to hault the code execution 
